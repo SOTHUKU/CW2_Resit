@@ -1,0 +1,34 @@
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\bin\Debug\Teachers.exe.config
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\bin\Debug\Data.mdf
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\bin\Debug\Data_log.ldf
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\bin\Debug\Teachers.exe
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\bin\Debug\Teachers.pdb
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\obj\Debug\Teachers.csprojResolveAssemblyReference.cache
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\obj\Debug\Teachers.Form1.resources
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\obj\Debug\Teachers.Properties.Resources.resources
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\obj\Debug\Teachers.csproj.GenerateResource.Cache
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\obj\Debug\Teachers.exe
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\obj\Debug\Teachers.pdb
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\obj\Debug\Teachers.Main_menu.resources
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\obj\Debug\Teachers.Manage_Classes.resources
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\obj\Debug\Teachers.Student_Add.resources
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\obj\Debug\Teachers.Homework.resources
+c:\users\hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\obj\Debug\Teachers.HW_Details.resources
+C:\Users\Hina kamal\documents\visual studio 2015\Projects\Teachers\Teachers\obj\Debug\Teachers.MarkHW.resources
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\bin\Debug\Teachers.exe.config
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\obj\Debug\Teachers.exe
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\obj\Debug\Teachers.pdb
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\bin\Debug\Data.mdf
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\bin\Debug\Data_log.ldf
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\bin\Debug\Teachers.exe
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\bin\Debug\Teachers.pdb
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\obj\Debug\Teachers.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\obj\Debug\Teachers.Form1.resources
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\obj\Debug\Teachers.Homework.resources
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\obj\Debug\Teachers.HW_Details.resources
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\obj\Debug\Teachers.Main_menu.resources
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\obj\Debug\Teachers.Manage_Classes.resources
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\obj\Debug\Teachers.MarkHW.resources
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\obj\Debug\Teachers.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\obj\Debug\Teachers.Student_Add.resources
+C:\Users\lenovo\Desktop\Ravi_code\Teachers\Teachers\obj\Debug\Teachers.csproj.GenerateResource.Cache
